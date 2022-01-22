@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Todo Lista</string>
+    <string name="add_todo_input">Wpisz todo</string>
+    <string name="add_todo_button">Dodaj</string>
+    <string name="view_todos">Przeglądaj todo</string>
+    <string name="add_todo_link">Dodaj todo</string>
+    <string name="go_back">Wróć</string>
+</resources>
